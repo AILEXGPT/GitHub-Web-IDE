@@ -1,3 +1,6 @@
+Sure, here's the provided text in Markdown format in German:
+
+```markdown
 ![GitHubWebIDE](https://raw.githubusercontent.com/zvizvi/GitHub-Web-IDE/master/src/img/logo.svg)
 # GitHub Web IDE
 
@@ -7,8 +10,8 @@
 [![GitHub Release](https://img.shields.io/github/v/release/zvizvi/GitHub-Web-IDE.svg)][release_link]
 
 
-This extension adds to any GitHub repository a new drop down menu which offers links to a number of online services that allow viewing the source code of the repository in an IDE like interface.
-Services currently supported:
+Diese Erweiterung fügt jedem GitHub-Repository ein neues Dropdown-Menü hinzu, das Links zu verschiedenen Online-Diensten bietet, mit denen der Quellcode des Repositorys in einer IDE-ähnlichen Oberfläche angezeigt werden kann.
+Derzeit unterstützte Dienste:
 
 * [GitHub Dev](https://github.dev/)
 * [VSCode Dev](https://vscode.dev/)
@@ -23,32 +26,32 @@ Services currently supported:
 * [Active Forks](https://techgaun.github.io/active-forks/)
 * [Gitpop2](https://gitpop2.vercel.app/)
 * [GitHub Memory](https://githubmemory.com/)
-* Clone in VSCode (locally)
+* Clone in VSCode (lokal)
 
 
-### What's changed?
-* v2.0.3 Bug fixed
-* v2.0.2 GitLab1s link added
-* v2.0.1 Open in VSCodeDev option
+### Was hat sich geändert?
+* v2.0.3 Fehler behoben
+* v2.0.2 GitLab1s-Link hinzugefügt
+* v2.0.1 Option zum Öffnen in VSCodeDev
 * v2.0.0
-  * Extension customizing options page.
-  * ~Open in VSCode Remote Repositories option.~
-  * Active Forks (disabled by default).
-  * Gitpop2 (disabled by default).
-  * GitHub Memory (disabled by default).
-* v1.0.16 Style changes and improvements.
-* v1.0.15 GitHub Dev link added.
-* v1.0.14 Open in VSCode option added (open.vscode.dev).
-* v1.0.13 Bug fixed.
-* v1.0.12 StackBlitz link added (for supported repositories only).
-* v1.0.11 Dark mode support.
-* v1.0.10 Open current selected branch.
-* v1.0.8 GitLab support, Glitch link added.
-* v1.0.7 Sourcegraph link added.
-* v1.0.4 Clone in VSCode option added.
+  * Anpassungsmöglichkeiten für die Erweiterung auf der Optionsseite.
+  * ~Option zum Öffnen in VSCode Remote Repositories.~
+  * Active Forks (standardmäßig deaktiviert).
+  * Gitpop2 (standardmäßig deaktiviert).
+  * GitHub Memory (standardmäßig deaktiviert).
+* v1.0.16 Stiländerungen und Verbesserungen.
+* v1.0.15 GitHub Dev-Link hinzugefügt.
+* v1.0.14 Option zum Öffnen in VSCode hinzugefügt (open.vscode.dev).
+* v1.0.13 Fehler behoben.
+* v1.0.12 StackBlitz-Link hinzugefügt (nur für unterstützte Repositories).
+* v1.0.11 Unterstützung für den Dunkelmodus.
+* v1.0.10 Aktuelles ausgewähltes Branch öffnen.
+* v1.0.8 Unterstützung für GitLab, Glitch-Link hinzugefügt.
+* v1.0.7 Sourcegraph-Link hinzugefügt.
+* v1.0.4 Option zum Klonen in VSCode hinzugefügt.
 
 ### ToDo:
-NPM packages file explorer, like
+NPM-Pakete-Datei-Explorer, wie
 - [ ] unpkg.com
 - [ ] npmjs1s.com
 - [ ] npm-explorer.tk
@@ -81,3 +84,5 @@ https://microsoftedge.microsoft.com/addons/detail/akjbkjciknacicbnkfjbnlaeednpad
 [edge_link]: https://microsoftedge.microsoft.com/addons/detail/akjbkjciknacicbnkfjbnlaeednpadcf
 [edge_badge]: https://user-images.githubusercontent.com/4354421/108622750-7f29aa80-7443-11eb-992d-b56cdbd83713.png
 [release_link]: https://github.com/zvizvi/GitHub-Web-IDE/releases/latest
+```
+
